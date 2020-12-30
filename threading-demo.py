@@ -28,3 +28,5 @@ finish = time.perf_counter()
 
 
 print ('Finished in {} second(s)'.format(round(finish-start, 2)))
+
+# source: https://www.youtube.com/watch?v=IEEhzQoKtQU&list=WL&index=2
